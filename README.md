@@ -14,3 +14,9 @@ Or
 ```bash
 wget -qO- https://github.com/Red-UI/notes/raw/master/install.sh | bash
 ```
+
+
+
+# DEMO
+
+![demo](https://github.com/Red-UI/notes/raw/master/ReduiSDK.gif)
