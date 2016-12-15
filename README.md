@@ -7,12 +7,12 @@ markdown work for communication
 # SDK 安装
 
 ```bash
-curl -o- https://github.com/Red-UI/notes/raw/master/install.sh | bash
+curl -o- https://raw.githubusercontent.com/Red-UI/notes/master/install.sh | bash
 ```
 Or
 
 ```bash
-wget -qO- https://github.com/Red-UI/notes/raw/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/Red-UI/notes/master/install.sh | bash
 ```
 
 
